@@ -1,2 +1,2 @@
 # -SIVAP81-DATA-ENGINEERING-PROJECT
-create end to end data pipeline and analyzing the employees data in Analytixlabs 
+BigData Engineering Capstone Project with technology stack : MySQL,Linux, sqoop, HDFS, Hive, Impala, SparkSQL, SparkML
